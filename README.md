@@ -110,8 +110,3 @@ cat ./maybehere07/.file2
   -executable`) in a single search, which is far faster than checking files
   manually.
 
-## Full Report
-
-A detailed write-up with front page, methodology, and full screenshots is
-included in the DATANEX internship submission (Word/PDF), submitted
-separately via the DATANEX Intern Portal.
